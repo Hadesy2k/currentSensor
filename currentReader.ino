@@ -5,13 +5,14 @@ float effective_voltage = 230;   // Singapore: 230V
 void setup(void) {
     // Serial speed
     Serial.begin(9600);
-    zero_sensor = getSensorValue(A0);  // A0 analog pin
+    zero_sensor = getCurrent(A0);  // A0 analog pin
 }
 
 
 void loop() {
-    float sensor_value = getSensorValue(A0);  // A0 analog pin
+    float sensor_value = getCurrent(A0);  // A0 analog pin
     int power = getPower(sensor_value);
+    delay(1000);
     Serial.println("Power: " + String(power) + "W");
 }
 
@@ -26,7 +27,7 @@ int getPower(float sensor_value) {
 }
 
 
-float getSensorValue(int pin) {
+float getCurrent(int pin) {
     // current sensor use Analog
     int sensorValue;
     float avgSensor = 0;
