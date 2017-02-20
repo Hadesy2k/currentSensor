@@ -1,5 +1,4 @@
-### currentSensor  
-Arduino Current Sensor  
+### Arduino Current Sensor and Smartswitch  
 
 [Reference Tutorial](https://openhomeautomation.net/arduino-wifi-switch/)  
 
