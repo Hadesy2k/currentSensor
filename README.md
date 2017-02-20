@@ -2,6 +2,10 @@
 
 [Reference Tutorial](https://openhomeautomation.net/arduino-wifi-switch/)  
 
+#### Components
+1. Arduino Uno
+2. [SparkFun Low Current Sensor Breakout - ACS712](https://www.sparkfun.com/products/8883)
+
 ![Smartswitch Circuit Layout](https://raw.githubusercontent.com/Hadesy2k/currentReader/master/images/circuit%20layout.png?token=AI5v2mcxjS5ilOprahdOV-Xo_goYmcSZks5YtALfwA%3D%3D)
 
 ![Acutal connection 1](https://raw.githubusercontent.com/Hadesy2k/currentReader/master/images/actual%20connection%201.png?token=AI5v2j57U4fqWoqGtOvlIj9rVIPBqbgdks5YtAL-wA%3D%3D)
