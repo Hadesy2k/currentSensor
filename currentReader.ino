@@ -12,7 +12,7 @@ void setup(void) {
 void loop() {
     float sensor_value = getSensorValue(A0);  // A0 analog pin
     int power = getPower(sensor_value);
-    Serial.println("Power: " + String(power) + "V");
+    Serial.println("Power: " + String(power) + "W");
 }
 
 
