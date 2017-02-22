@@ -5,6 +5,7 @@
 #### Components
 1. Arduino Uno
 2. [SparkFun Low Current Sensor Breakout - ACS712](https://www.sparkfun.com/products/8883)
+3. [DFRobot Relay Module v3.1 - SKU:DFR0017](https://www.dfrobot.com/product-64.html)
 
 ![Smartswitch Circuit Layout](https://raw.githubusercontent.com/Hadesy2k/currentReader/master/images/circuit%20layout.png?token=AI5v2mcxjS5ilOprahdOV-Xo_goYmcSZks5YtALfwA%3D%3D)
 
