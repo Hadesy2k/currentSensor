@@ -9,6 +9,6 @@
 
 ![Smartswitch Circuit Layout](https://raw.githubusercontent.com/Hadesy2k/smartplug/master/images/circuit%20layout.png?token=AI5v2vajnDhGSZlx8vLELvjGMNE4Kdutks5YtoX2wA%3D%3D)
 
-![Acutal connection 1](https://raw.githubusercontent.com/Hadesy2k/smartplug/master/images/actual%20connection%201.png?token=AI5v2j57U4fqWoqGtOvlIj9rVIPBqbgdks5YtAL-wA%3D%3D)
+![Acutal connection 1](https://raw.githubusercontent.com/Hadesy2k/smartplug/master/images/actual%20connection%201.png?token=AI5v2uf6jh_OwjnsuIF3cA85JVjvNiDgks5YtoY4wA%3D%3D)
 
-![Actual connection 2](https://raw.githubusercontent.com/Hadesy2k/smartplug/master/images/actual%20connection%202.png?token=AI5v2mKWEcZU4HClKj54GoaE4K58PB_rks5YtAMQwA%3D%3D)
+![Actual connection 2](https://raw.githubusercontent.com/Hadesy2k/smartplug/master/images/actual%20connection%202.png?token=AI5v2lnHiPEhSneYOs0yigewvwH6Eg3Kks5YtoZVwA%3D%3D)
