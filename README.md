@@ -7,8 +7,8 @@
 2. [SparkFun Low Current Sensor Breakout - ACS712](https://www.sparkfun.com/products/8883)
 3. [DFRobot Relay Module v3.1 - SKU:DFR0017](https://www.dfrobot.com/product-64.html)
 
-![Smartswitch Circuit Layout](https://raw.githubusercontent.com/Hadesy2k/currentReader/master/images/circuit%20layout.png?token=AI5v2mcxjS5ilOprahdOV-Xo_goYmcSZks5YtALfwA%3D%3D)
+![Smartswitch Circuit Layout](https://raw.githubusercontent.com/Hadesy2k/smartplug/master/images/circuit%20layout.png?token=AI5v2vajnDhGSZlx8vLELvjGMNE4Kdutks5YtoX2wA%3D%3D)
 
-![Acutal connection 1](https://raw.githubusercontent.com/Hadesy2k/currentReader/master/images/actual%20connection%201.png?token=AI5v2j57U4fqWoqGtOvlIj9rVIPBqbgdks5YtAL-wA%3D%3D)
+![Acutal connection 1](https://raw.githubusercontent.com/Hadesy2k/smartplug/master/images/actual%20connection%201.png?token=AI5v2j57U4fqWoqGtOvlIj9rVIPBqbgdks5YtAL-wA%3D%3D)
 
-![Actual connection 2](https://raw.githubusercontent.com/Hadesy2k/currentReader/master/images/actual%20connection%202.png?token=AI5v2mKWEcZU4HClKj54GoaE4K58PB_rks5YtAMQwA%3D%3D)
+![Actual connection 2](https://raw.githubusercontent.com/Hadesy2k/smartplug/master/images/actual%20connection%202.png?token=AI5v2mKWEcZU4HClKj54GoaE4K58PB_rks5YtAMQwA%3D%3D)
